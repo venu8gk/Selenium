@@ -8,6 +8,7 @@ public class RestAPITest {
 	{
 		System.out.println("This is API Test");
 		System.out.println("Added the GIT Demo");
+		System.out.println("Git Demo from X User");
 	}
 	@Test()
 	public void TestAPI2()
