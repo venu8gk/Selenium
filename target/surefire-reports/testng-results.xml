@@ -2,30 +2,30 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-05-03T14:39:38 BST" name="Suite" finished-at="2020-05-03T14:39:38 BST" duration-ms="78">
+  <suite started-at="2020-05-07T21:20:22 BST" name="Command line suite" finished-at="2020-05-07T21:20:22 BST" duration-ms="59">
     <groups>
     </groups>
-    <test started-at="2020-05-03T14:39:38 BST" name="Test" finished-at="2020-05-03T14:39:38 BST" duration-ms="78">
+    <test started-at="2020-05-07T21:20:22 BST" name="Command line test" finished-at="2020-05-07T21:20:22 BST" duration-ms="59">
       <class name="MavenJava.SeleniumTest">
-        <test-method signature="Brouserautomation()[pri:0, instance:MavenJava.SeleniumTest@5d47c63f]" started-at="2020-05-03T14:39:38 BST" name="Brouserautomation" finished-at="2020-05-03T14:39:38 BST" duration-ms="16" status="PASS">
+        <test-method signature="Brouserautomation()[pri:0, instance:MavenJava.SeleniumTest@13eb8acf]" started-at="2020-05-07T21:20:22 BST" name="Brouserautomation" finished-at="2020-05-07T21:20:22 BST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Brouserautomation -->
-        <test-method signature="elementSUT()[pri:0, instance:MavenJava.SeleniumTest@5d47c63f]" started-at="2020-05-03T14:39:38 BST" name="elementSUT" finished-at="2020-05-03T14:39:38 BST" duration-ms="0" status="PASS">
+        <test-method signature="elementSUT()[pri:0, instance:MavenJava.SeleniumTest@13eb8acf]" started-at="2020-05-07T21:20:22 BST" name="elementSUT" finished-at="2020-05-07T21:20:22 BST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- elementSUT -->
       </class> <!-- MavenJava.SeleniumTest -->
       <class name="MavenJava.RestAPITest">
-        <test-method signature="TestAPI()[pri:0, instance:MavenJava.RestAPITest@5ea434c8]" started-at="2020-05-03T14:39:38 BST" name="TestAPI" finished-at="2020-05-03T14:39:38 BST" duration-ms="16" status="PASS">
+        <test-method signature="TestAPI()[pri:0, instance:MavenJava.RestAPITest@543c6f6d]" started-at="2020-05-07T21:20:22 BST" name="TestAPI" finished-at="2020-05-07T21:20:22 BST" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestAPI -->
-        <test-method signature="TestAPI2()[pri:0, instance:MavenJava.RestAPITest@5ea434c8]" started-at="2020-05-03T14:39:38 BST" name="TestAPI2" finished-at="2020-05-03T14:39:38 BST" duration-ms="0" status="PASS">
+        <test-method signature="TestAPI2()[pri:0, instance:MavenJava.RestAPITest@543c6f6d]" started-at="2020-05-07T21:20:22 BST" name="TestAPI2" finished-at="2020-05-07T21:20:22 BST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestAPI2 -->
       </class> <!-- MavenJava.RestAPITest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
 </testng-results>
